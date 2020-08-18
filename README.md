@@ -5,7 +5,7 @@
 	<title>El impacto de la tecnología en tiempos de pandemia</title>
 	<style>
 		body {
-			background: rgb(156, 159, 159);
+			background: rgb(144, 240, 241);
 		}
 
 		p {
