@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -137,5 +137,4 @@ Teletrabajo Autónomo: Trabajadores independientes o empleados que se valen de l
 
      <p id="modificacion">Ultima fecha de modificación: <strong>18/08/2020</strong><p>
 
-</body>
-</html>
+
