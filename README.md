@@ -4,6 +4,7 @@
 	<meta charset="UTF-8">
 	<title>El impacto de la tecnología en tiempos de pandemia</title>
 	<style>
+		#Yo{width: 250px;}
 		body {
 			background: rgb(144, 240, 241);
 		}
@@ -77,6 +78,12 @@
 	</style>
 </head>
 <body>
+	<div align="center"><img id="Yo" src="https://u.ph.edim.co/9cc3/134697822_6_140.png"></div>
+	<div align="center">
+	<p>Santiago Lam Castaño</p>
+   <p>10-B</p>
+   <p>I.E La Milagrosa</p>
+   <p>Proyecto Final Tecnología</p></div>
 	<h1>El impacto de la tecnología en tiempos de pandemia</h1>
 	<img id="pandemia1" src="https://images.theconversation.com/files/320158/original/file-20200312-111268-16lui2k.jpg?ixlib=rb-1.1.0&rect=0%2C0%2C6365%2C4046&q=45&auto=format&w=496&fit=clip">
 	<p>Estamos viviendo un momento muy desafiante y sin precedentes a nivel mundial por causa del <a target="_blank" href="https://www.minsalud.gov.co/salud/publica/PET/Paginas/Covid-19_copia.aspx"><strong>Covid-19</strong></a>.Todos sentimos por primera vez el impacto de una pandemia que nos obligó a modificar varios de nuestras hábitos rapidamente.</p>
